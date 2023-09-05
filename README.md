@@ -22,3 +22,5 @@ This has resulted in several fatal accidents. Bird strikes may occur during any 
 likely during the take-off, initial climb, approach and landing phases due to the greater
 numbers of birds in flight at lower levels. To have a closer look the following document
 visually depicts the data collected on Bird Strikes by FAA between 2000-2011.
+
+----**VIDEO LINK**----  https://drive.google.com/file/d/11bWlH1_uvbo27XVnzG4jJsZ5kXRTMsIj/view?usp=drive_link
